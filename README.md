@@ -1,5 +1,5 @@
 # Kerning-templates
-Templates to help you when you are kerning your typefaces.
+Lists of character combinations to help you when you kern typefaces.
 
 ## How to use
 There are two ways of using those kerning templates.
