@@ -1,13 +1,14 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700|Lekton:400,700);
 
 body {
   padding:50px;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:14px/1.5 Lekton, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
   font-weight:300;
 }
 
 h1, h2, h3, h4, h5, h6 {
+  font-family: Lato;
   color:#222;
   margin:0 0 20px;
 }
@@ -33,7 +34,8 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
+  /* color:#39c; */
+  color: #615C40;
   font-weight:400;
   text-decoration:none;
 }
@@ -41,7 +43,7 @@ a {
 a small {
   font-size:11px;
   color:#777;
-  margin-top:-0.6em;
+  margin-top:-0.2em;
   display:block;
 }
 
@@ -105,8 +107,10 @@ header ul {
   list-style:none;
   height:40px;
   
-  padding:0;
+  padding:5px 0 0 0;
   
+  background: #dbdbcf;
+  /*
   background: #eee;
   background: -moz-linear-gradient(top, #f8f8f8 0%, #dddddd 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
@@ -114,10 +118,10 @@ header ul {
   background: -o-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
   background: -ms-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
   background: linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
-  
   border-radius:5px;
+  */
   border:1px solid #d2d2d2;
-  box-shadow:inset #fff 0 1px 0, inset rgba(0,0,0,0.03) 0 -1px 0;
+  /* box-shadow:inset #fff 0 1px 0, inset rgba(0,0,0,0.03) 0 -1px 0; */
   width:270px;
 }
 
