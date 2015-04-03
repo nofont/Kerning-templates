@@ -1,0 +1,84 @@
+aåabåbcåcdådeåefåfgåghåhiåijåjkåklålmåmnånoåopåpqåqrårsåståtuåuvåvwåwxåxyåyzåzåååäåäöåöå
+aäabäbcäcdädeäefäfgäghähiäijäjkäklälmämnänoäopäpqäqrärsästätuäuvävwäwxäxyäyzäzåäåäääöäöä
+aöaböbcöcdödeöeföfgöghöhiöijöjköklölmömnönoöopöpqöqrörsöstötuöuvövwöwxöxyöyzözåöåäöäöööö
+
+
+III  JIJ  HIH  MIM  NIN  UIU  BIB  DID  EIE  FIF  KIK  LIL  PIP  RIR      
+IJI  JJJ  HJH  MJM  NJN  UJU  BJB  DJD  EJE  FJF  KJK  LJL  PJP  RJR        
+IHI  JHJ  HHH  MHM  NHN  UHU  BHB  DHD  EHE  FHF  KHK  LHL  PHP  RHR      
+IMI  JMJ  HMH  MMM  NMN  UMU  BMB  DMD  EME  FMF  KMK  LML  PMP  RMR        
+INI  JNJ  HNH  MNM  NNN  UNU  BNB  DND  ENE  FNF  KNK  LNL  PNP  RNR        
+IUI  JUJ  HUH  MUM  NUN  UUU  BUB  DUD  EUE  FUF  KUK  LUL  PUP  RUR        
+IBI  JBJ  HBH  MBM  NBN  UBU  BBB  DBD  EBE  FBF  KBK  LBL  PBP  RBR      
+IDI  JDJ  HDH  MDM  NDN  UDU  BDB  DDD  EDE  FDF  KDK  LDL  PDP  RDR      
+IEI  JEJ  HEH  MEM  NEN  UEU  BEB  DED  EEE  FEF  KEK  LEL  PEP  RER      
+IFI  JFJ  HFH  MFM  NFN  UFU  BFB  DFD  EFE  FFF  KFK  LFL  PFP  RFR      
+IKI  JKJ  HKH  MKM  NKN  UKU  BKB  DKD  EKE  FKF  KKK  LKL  PKP  RKR      
+ILI  JLJ  HLH  MLM  NLN  ULU  BLB  DLD  ELE  FLF  KLK  LLL  PLP  RLR        
+IPI  JPJ  HPH  MPM  NPN  UPU  BPB  DPD  EPE  FPF  KPK  LPL  PPP  RPR      
+IRI  JRJ  HRH  MRM  NRN  URU  BRB  DRD  ERE  FRF  KRK  LRL  PRP  RRR    
+IOI  JOJ  HOH  MOM  NON  UOU  BOB  DOD  EOE  FOF  KOK  LOL  POP  ROR          
+IÖI  JÖJ  HÖH  MÖM  NÖN  UÖU  BÖB  DÖD  EÖE  FÖF  KÖK  LÖL  PÖP  RÖR      
+IQI  JQJ  HQH  MQM  NQN  UQU  BQB  DQD  EQE  FQF  KQK  LQL  PQP  RQR        
+ICI  JCJ  HCH  MCM  NCN  UCU  BCB  DCD  ECE  FCF  KCK  LCL  PCP  RCR        
+IGI  JGJ  HGH  MGM  NGN  UGU  BGB  DGD  EGE  FGF  KGK  LGL  PGP  RGR      
+ISI  JSJ  HSH  MSM  NSN  USU  BSB  DSD  ESE  FSF  KSK  LSL  PSP  RSR        
+IAI  JAJ  HAH  MAM  NAN  UAU  BAB  DAD  EAE  FAF  KAK  LAL  PAP  RAR        
+IÅI  JÅJ  HÅH  MÅM  NÅN  UÅU  BÅB  DÅD  EÅE  FÅF  KÅK  LÅL  PÅP  RÅR       
+ IÄI  JÄJ  HÄH  MÄM  NÄN  UÄU  BÄB  DÄD  EÄE  FÄF  KÄK  LÄL  PÄP  RÄR        
+ITI  JTJ  HTH  MTM  NTN  UTU  BTB  DTD  ETE  FTF  KTK  LTL  PTP  RTR        
+IVI  JVJ  HVH  MVM  NVN  UVU  BVB  DVD  EVE  FVF  KVK  LVL  PVP  RVR        
+IWI  JWJ  HWH  MWM  NWN  UWU  BWB  DWD  EWE  FWF  KWK  LWL  PWP  RWR        
+IXI  JXJ  HXH  MXM  NXN  UXU  BXB  DXD  EXE  FXF  KXK  LXL  PXP  RXR        
+IYI  JYJ  HYH  MYM  NYN  UYU  BYB  DYD  EYE  FYF  KYK  LYL  PYP  RYR        
+IZI  JZJ  HZH  MZM  NZN  UZU  BZB  DZD  EZE  FZF  KZK  LZL  PZP  RZR       
+ OIO  ÖIÖ  QIQ  CIC  GIG  SIS  AIA  ÅIÅ  ÄIÄ  TIT  VIV  WIW  XIX  YIY  ZIZ    
+OJO  ÖJÖ  QJQ  CJC  GJG  SJS  AJA  ÅJÅ  ÄJÄ  TJT  VJV  WJW  XJX  YJY  ZJZ      
+OHO  ÖHÖ  QHQ  CHC  GHG  SHS  AHA  ÅHÅ  ÄHÄ  THT  VHV  WHW  XHX  YHY  ZHZ    
+OMO  ÖMÖ  QMQ  CMC  GMG  SMS  AMA  ÅMÅ  ÄMÄ  TMT  VMV  WMW  XMX  YMY  ZMZ      
+ONO  ÖNÖ  QNQ  CNC  GNG  SNS  ANA  ÅNÅ  ÄNÄ  TNT  VNV  WNW  XNX  YNY  ZNZ      
+OUO  ÖUÖ  QUQ  CUC  GUG  SUS  AUA  ÅUÅ  ÄUÄ  TUT  VUV  WUW  XUX  YUY  ZUZ      
+-> OBO  ÖBÖ  QBQ  CBC  GBG  SBS  ABA  ÅBÅ  ÄBÄ  TBT  VBV  WBW  XXX  YBY  ZBZ    
+ODO  ÖDÖ  QDQ  CDC  GDG  SDS  ADA  ÅDÅ  ÄDÄ  TDT  VDV  WDW  XDX  YDY  ZDZ    
+OEO  ÖEÖ  QEQ  CEC  GEG  SES  AEA  ÅEÅ  ÄEÄ  TET  VEV  WEW  XEX  YEY  ZEZ    
+OFO  ÖFÖ  QFQ  CFC  GFG  SFS  AFA  ÅFÅ  ÄFÄ  TFT  VFV  WFW  XFX  YFY  ZFZ    
+OKO  ÖKÖ  QKQ  CKC  GKG  SKS  AKA  ÅKÅ  ÄKÄ  TKT  VKV  WKW  XKX  YKY  ZKZ    
+OLO  ÖLÖ  QLQ  CLC  GLG  SLS  ALA  ÅLÅ  ÄLÄ  TLT  VLV  WLW  XLX  YLY  ZLZ      
+OPO  ÖPÖ  QPQ  CPC  GPG  SPS  APA  ÅPÅ  ÄPÄ  TPT  VPV  WPW  XPX  YPY  ZPZ    
+ORO  ÖRÖ  QRQ  CRC  GRG  SRS  ARA  ÅRÅ  ÄRÄ  TRT  VRV  WRW  XRX  YRY  ZRZ      
+OOO  ÖOÖ  QOQ  COC  GOG  SOS  AOA  ÅOÅ  ÄOÄ  TOT  VOV  WOW  XOX  YOY  ZOZ        
+OÖO  ÖÖÖ  QÖQ  CÖC  GÖG  SÖS  AÖA  ÅÖÅ  ÄÖÄ  TÖT  VÖV  WÖW  XÖX  YÖY  ZÖZ    
+OQO  ÖQÖ  QQQ  CQC  GQG  SQS  AQA  ÅQÅ  ÄQÄ  TQT  VQV  WQW  XQX  YQY  ZQZ      
+OCO  ÖCÖ  QCQ  CCC  GCG  SCS  ACA  ÅCÅ  ÄCÄ  TCT  VCV  WCW  XCX  YCY  ZCZ      
+OGO  ÖGÖ  QGQ  CGC  GGG  SGS  AGA  ÅGÅ  ÄGÄ  TGT  VGV  WGW  XGX  YGY  ZGZ    
+OSO  ÖSÖ  QSQ  CSC  GSG  SSS  ASA  ÅSÅ  ÄSÄ  TST  VSV  WSW  XSX  YSY  ZSZ      
+OAO  ÖAÖ  QAQ  CAC  GAG  SAS  AAA  ÅAÅ  ÄAÄ  TAT  VAV  WAW  XAX  YAY  ZAZ      
+OÅO  ÖÅÖ  QÅQ  CÅC  GÅG  SÅS  AÅA  ÅÅÅ  ÄÅÄ  TÅT  VÅV  WÅW  XÅX  YÅY  ZÅZ      
+OÄO  ÖÄÖ  QÄQ  CÄC  GÄG  SÄS  AÄA  ÅÄÅ  ÄÄÄ  TÄT  VÄV  WÄW  XÄX  YÄY  ZÄZ      
+OTO  ÖTÖ  QTQ  CTC  GTG  STS  ATA  ÅTÅ  ÄTÄ  TTT  VTV  WTW  XTX  YTY  ZTZ      
+OVO  ÖVÖ  QVQ  CVC  GVG  SVS  AVA  ÅVÅ  ÄVÄ  TVT  VVV  WVW  XVX  YVY  ZVZ      
+OWO  ÖWÖ  QWQ  CWC  GWG  SWS  AWA  ÅWÅ  ÄWÄ  TWT  VWV  WWW  XWX  YWY  ZWZ      
+OXO  ÖXÖ  QXQ  CXC  GXG  SXS  AXA  ÅXÅ  ÄXÄ  TXT  VXV  WXW  XXX  YXY  ZXZ      
+OYO  ÖYÖ  QYQ  CYC  GYG  SYS  AYA  ÅYÅ  ÄYÄ  TYT  VYV  WYW  XYX  YYY  ZYZ      
+OZO  ÖZÖ  QZQ  CZC  GZG  SZS  AZA  ÅZÅ  ÄZÄ  TZT  VZV  WZW  XZX  YZY  ZZZ  
+
+
+a-a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z-å-ä-ö-A-B-C-D-E-F-G-H-I-J-K-L-M-N-O-P-Q-R-S-T-U-V-W-X-Y-Z-Å-Ä-Ö-1-2-3-4-5-6-7-8-9-0-
+
+
+ona,   ona.    ona-a–a—a/ah   ono,    ono.   ono-o–o—o/oh    onb,    onb.    onb-b–b—b/bh   onp,    onp.   onp-p–p—p/ph    onc,    onc.    onc-c–c—c/ch   onq,    onq.   onq-q–q—q/qh    ond,    ond.   ond-d–d—d/dh   onr,    onr.   onr-r–r—r/rh    one,    one.   one-e–e—e/eh   ons,    ons.   ons-s–s—s/sh    onf,    onf.    onf-f–f—f/fh   ont,   ont.   ont-t–t—t/th    ong,    ong.    ong-g–g—g/gh   onu,    onu.   onu-u–u—u/uh    onh,    onh.    onh-h–h—h/ho   onv,    onv.   onv-v–v—v/vh    oni,     oni.   oni-i–i—i/ih   onw,    onw.   onw-w–w—w/wh    onj,    onj.    onj-j–j—j/jh   onx,    onx.   onx-x–x—x/xh    onk,    onk.    onk-k–k—k/kh   ony,    ony.   ony-y–y—y/yh    onl,    onl.    onl-l–l—l/lh   onå,    onå.   onå-å–å—å/åh    onm,    onm.   om-m–m—m/mh   onä,    onä.   onä-ä–ä—ä/äh    onn,    onn.   onn-n–n—n/nh   onö,    onö.   onö-ö–ö—ö/öh           abba/borå  nord/celin/thule         onz-z–z—z/zh
+
+
+ona,   ona.    oa-a–a—a/ah   ono,    ono.   ono-o–o—o/oh    onb,    onb.    onb-b–b—b/bh   onp,    onp.   onp-p–p—p/ph    onc,    onc.    oc-c–c—c/ch   onq,    onq.   onq-q–q—q/qh    ond,    ond.   od-d–d—d/dh   onr,    onr.   onr-r–r—r/rh    one,    one.   one-e–e—e/eh   ons,    ons.   ons-s–s—s/sh    onf,    onf.    onf-f–f—f/fh   ont,   ont.   ont-t–t—t/th    ong,    ong.    og-g–g—g/gh   onu,    onu.   onu-u–u—u/uh    onh,    onh.    oh-h–h—h/ho   onv,    onv.   onv-v–v—v/vh    oni,     oni.   oni-i–i—i/ih   ow,    ow.   ow-w–w—w/wh    onj,    onj.    onj-j–j—j/jh   onx,    onx.   onx-x–x—x/xh    onk,    onk.    onk-k–k—k/kh   ony,    ony.   ony-y–y—y/yh    onl,    onl.    onl-l–l—l/lh   onå,    onå.   onå-å–å—å/åh    om,    om.   m-m–m—m/mh   onä,    onä.   onä-ä–ä—ä/äh    onn,    onn.   on-n–n—n/nh   onö,    onö.   onö-ö–ö—ö/öh    abba/borå  nord/celin/thule      onz-z–z—z/zh
+
+
+
+01.1,1-1–1—10  06.6,6-6–6—60  1921–12  1926–61    02.2,2-2–2—20  07.7,7-7–7—70  1912–21  1947–72    03.3,3-3–3—30  08.8,8-8–8—80  1913–32  1928–81  04.4,4-4–4—40  09.9,9-9–9—90  1914–41  1969–91    05.5,5-5–5—50  00.0,0-0–0—00  1975–51  1910–01    011213141516171819100  061626364656676869600      021223242526272829200  071727374757677879700   1234567890    031323343536373839300  081828384858687889800    041424344546474849400  091929394959697989900  051525354556575859500  1965  1834  1818  1799  1854  1388    011213141516171819100  061626364656676869600  1234567890    021223242526272829200  071727374757677879700      031323343536373839300  081828384858687889800    041424344546474849400  091929394959697989900      051525354556575859500  1965  1834  1818  1799  1854  1388
+
+
+
+
+Abno Acno Adno Aono Apno Aqno Atno Auno Avno Awno Ayno Azno  Bano Båno Bäno Beno Bhon Bino Bjon Blon Bron Bono Böno Buno Byno Byggo Cano Chon Cino Clon Cono Cöno Cron Cuno Cyno Czon Dano Dåno Däno Deno Dhon Dino Djon Dono Döno Dron Duno Dyno Ebon Econ Edon Efon Egon Ehon Eion Ejon Ekon Elon Emon Enon Epon Eron Eton Euon Evon Ewon Exon Eyon Ezon soﬁa ﬁber ﬁck ﬁdo ﬁer ﬁfﬁg ﬁji ﬁktiv ﬁlos ﬁmp ﬁnﬁn ﬁol ﬁön ﬁppla ﬁqus ﬁra graﬁsk ﬁtma ﬁun ﬁva ﬁwa ﬁxa ﬁzz ﬁär ﬂarn ﬂer ﬂina ﬂora ﬂum ﬂyta ﬂåta ﬂäta ﬂög fuffa fjun teﬂon tufﬂen stufbit ruffbuse ruffhett straffkast träfﬂig Fano Fåno Fäno Feno Fino Fjon Flon Fono Föno Fron Funo Fyno Gano Gåno Gäno Geno Ghon Gino Gjon Glon Gnon Gono Göno Gron Guno Gyno Hano Hån Hän Heno Hino Hjon Hono Hön Hun Hyn Iano Iåno Iäno Ibon Icon Idon Ieon Ifon Igon Ihon Ijon Ikon Ilon Imon Inon Ion Iön Ipon Ion Iron Ison Iton Iuon Ivon Iwon Iyon åiåaeiöj Jano Jåno Jäno Jeno Jino Jono Jöno Juno Jyno Kano Kåno Käno Keon Khan Kino Kjon Klon Kon Kön Kron Kuno Kvon Kwon Kyno Lano Låno Läno Leno Lino Ljon Lono Löno Luno Lvon Lwon Lyon Mano Måno Mäno Mcon Meon Mion Mjon Mono Möno Muno Myno Nano Nån Nän Neno Nino Njon Nono Nön Nun Nyn Oan Oån Oän Obon Ocon Odon Oeno Ofon Ogon Ohon Oion Ojon Okon Olon Omon Ono Oono Opon Oqon Oron Oson Oton Ouno Ozon Pano Påno Päno Peno Phon Pino Pjon Plon Pnon Pono Pöno Pron Pson Pton Puno Pyno Qano Quno Rano Råno Räno Reno Rino Rono Röno Runo Ryon Sano Sån Sän Seno Shon Sino Sjon Skon Slon Smon Sno Sono Söno Spon Sqon Sron Ston Suno Svon Swon Syno Tano Tåno Täno Tcon Teno Tino Tjon Tmon Tnon Tono Töno Tron Tson Tuno Tvon Twon Tyno Tzon Uano Ubon Ucon Udon Ueno Ufon Ugon Uhon Uino Ujno Ukon Ulon Umon Unon Upon Uron Uson Uton Uvon Uxon Uzon Vano Våno Väno Veno Vino Vono Vöno Vron Vuno Vyno Wano Wåno Wäno Weno Wino Wono Wöno Wron Wuno Wyno Xeno Xuno Xyno  Yano Yåno Yäno Ycon Ydon Yeno Ygon Yho Ykon Ylon Ymon Ynon Yono Yöno Ypon Yron Yson Yton Yvon Ywon Yxon Yzon Zano Zeno Zino Zono Zuno Zwon Zyno Åbno Åcno Ådno Åono Åpno Åtno Åuno Åvno Åwno Åzno Äbno Äcno Ädno Äono Äpno Ätno Äuno Ävno Äwno Äzno  Öano Öbon Öcon Ödon Öeno Öfon Ögon Öhon Öion Öjon Ökon Ölon Ömon Önon Öono Öpon Öqon Öron Öson Öton Öuno 
+
+
+‘a’ona’s   ‘‘a’’ana’’  “a”ana”  ‘A’A’  ‘‘A’’ANA’’  “A”ANA”  ‘b’onb’s  ‘‘b’’bob’’  “b”bob”  ‘B’B’  ‘‘B’’BOB’’  “B”BOB”  ‘c’onc’s  ‘‘c’’conc’’  “c”conc”  ‘C’C’  ‘‘C’’COC’’  “C”COC”   ‘d’ond’s  ‘‘d’’dod’’  “d”dod”  ‘D’D’  ‘‘D’’DOD’’  “D”DOD”  ‘e’noe’s  ‘‘e’’enoe’’  “e”enoe”  ‘E’E’  ‘‘E’’ENE’’  “E”ENE”    ‘f’onf’s  ‘‘f’’fonf’’  “f”fonf”  ‘F’F’    ‘‘F’’FOF’’  “F”FOF”  ‘g’ong’s  ‘‘g’’gog’’  “g”gog”  ‘G’G’  ‘‘G’’GOG’’  “G”GOG”  ‘h’onh’s  ‘‘h’’hoh’’  “h”hoh”   ‘H’H’  ‘‘H’’HOH’’  “H”HOH”  ‘i’inoi’s  ‘‘i’’inoi’’  “i”inoi”  ‘I’I’  ‘‘I’’INOI’’  “H”INOI”   ‘j’jonj’s  ‘‘j’’jonj’’  “j”jonj”  ‘J’J’  ‘‘J’’JONJ’’  “J”JONJ”  ‘k’kok’s   ‘‘k’’kok’’  “k”kok”  ‘K’K’  ‘‘K’’KOK’’  “K”KOK”   ‘l’lonl’s  ‘‘l’’lonl’’  “l”lonl”  ‘L’L’  ‘‘L’’LOL’’  “L”LOL”  ‘m’mm’s  ‘‘m’’mm’’  “m”mm”  ‘M’M’  ‘‘M’’MM’’  “M”MM”  ‘n’non’s  ‘‘n’’non’’  “n”non”  ‘N’N’  ‘‘N’’NON’’  “N”NON”   ‘o’ono’s  ‘‘o’’ono’’  “o”ono”  ‘O’O’  ‘‘O’’ONO’’  “O”ONO”  ‘p’pop’s  ‘‘p’’pop’’  “p”pop”  ‘P’P’  ‘‘P’’PONP’’  “P”PONP”  ‘q’qoq’s  ‘‘q’’qoq’’  “q”qoq”  ‘Q’Q’  ‘‘Q’’QNQ’’  “Q”QNQ”  ‘r’ronr’s  ‘‘r’’ronr’’  “r”ronr”  ‘R’R’  ‘‘R’’ROR’’  “R”ROR”  ‘s’sons’s  ‘‘s’’sons’’  “s”sons”  ‘S’S’  ‘‘S’’SONS’’  “S”SONS”  ‘t’tont’s  ‘‘t’’tont’’  “t”tont”  ‘T’T’  ‘‘T’’TOT’’  “T”TOT”  ‘u’unu’s  ‘‘u’’unu’’  “u”unu”  ‘U’U’  ‘‘U’’UNU’’  “U”UNU”  ‘v’vov’s  ‘‘v’’vov’’  “v”vonv”  ‘V’V’  ‘‘V’’VOV’’  “V”VOV”  ‘w’wiw’s  ‘‘w’’wiw’’  “w”wiw”  ‘W’W’  ‘‘W’’WW’’  “W”WW”   ‘x’xox’s  ‘‘x’’xox’’  “x”xonx”  ‘X’X’  ‘‘X’’XOX’’  “X”XOX”  ‘y’yoy’s  ‘‘y’’yoy’’  “y”yony”  ‘Y’Y’  ‘‘Y’’YOY’’  “Y”YOY”   ‘z’zoz’s  ‘‘z’’zoz’’  “z”zoz”  ‘Z’Z’  ‘‘Z’’ZOZ’’  “Z”ZOZ”  ‘å’ånå’s  ‘‘å’’ånå’’  “å”ånå”  ‘Å’Å’  ‘‘Å’’ÅNÅ’’  “Å”ÅNÅ”  ‘ä’änä’s  ‘‘ä’’änä’’  “ä”änä”  ‘Ä’Ä’  ‘‘Ä’’ÄNÄ’’  “Ä”ÄNÄ”   ‘ö’önö’s  ‘‘ö’’önö’’  “ö”önö”  ‘Ö’Ö’  ‘‘Ö’’ÖNÖ’’  “Ö”ÖNÖ”
